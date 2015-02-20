@@ -52,3 +52,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# test_django files
+db.sqlite3
+custom_collectstatic
+static_files/
