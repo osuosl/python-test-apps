@@ -9,7 +9,7 @@ setup(
     name='python-test-apps',
     version='1.0.0',
     install_requires=dependencies,
-    author='OSU Open Source Lab'
+    author='OSU Open Source Lab',
     author_email='support@osuosl.org',
     packages=find_packages(),
     url='https://github.com/osuosl/python-test-apps',
