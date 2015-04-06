@@ -49,9 +49,9 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'whats_fresh.urls'
+ROOT_URLCONF = 'tutorial_a.urls'
 
-WSGI_APPLICATION = 'whats_fresh.wsgi.application'
+WSGI_APPLICATION = 'tutorial.wsgi.application'
 
 
 # Database

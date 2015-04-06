@@ -3,7 +3,7 @@ import os
 import sys
 
 if __name__ == "__main__":
-    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "whats_fresh.settings")
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "tutorial_a.settings")
 
     if "syncdb" in sys.argv:
         print("\033[91msyncdb has been deprecated\033[0m")
